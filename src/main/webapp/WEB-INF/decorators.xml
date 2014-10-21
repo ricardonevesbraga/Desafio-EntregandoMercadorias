@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/decorators" >
+	<decorator name="interno" page="principal.jsp">
+		<pattern>/*</pattern>
+	</decorator>
+	<excludes>
+   		<pattern>/index.jsp</pattern>
+   		<pattern>/versao</pattern>
+   		<pattern>/versao/*</pattern>
+   		<pattern>/tms/monitoring</pattern>
+   		<pattern>/tms/monitoring/*</pattern>
+   		<pattern>/rest/*</pattern>
+   		<pattern>/rest</pattern>
+   	</excludes>
+</decorators>

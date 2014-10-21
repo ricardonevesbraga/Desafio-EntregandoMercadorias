@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<Context>
+
+    <Resource
+       name="jdbc/walmartDS"
+       auth="Container"
+       type="javax.sql.DataSource"
+       username="appwalmart"
+       password="wal2014mart21"
+       driverClassName="oracle.jdbc.pool.OracleConnectionPoolDataSource"
+       url="jdbc:oracle:thin:@127.0.0.1:1521:XE"
+       accessToUnderlyingConnectionAllowed="true"
+         />
+
+</Context>

@@ -1,0 +1,3 @@
+<tomcat-users>
+ <user name="monitoracao" password="aplicacao2014" roles="monitoring" />
+</tomcat-users>
