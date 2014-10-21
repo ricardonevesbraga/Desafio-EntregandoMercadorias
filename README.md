@@ -1,6 +1,10 @@
-Desafio-EntregandoMercadorias
+Desafio-Entregando Mercadorias
 =============================
 
-entrega-mercadorias-rest-api
+API REST para encontrar o caminho mais rápido entre dois pontos utilizando:
 
-
+* JAVA
+* JSON
+* REST
+* JDBC
+* ORACLE
